@@ -11,3 +11,11 @@
     justify-content: center;
     align-items: center;
 }
+
+.eighty_percent {
+    width: 80%;
+}
+
+.twenty_percent {
+    width: 20%;
+}

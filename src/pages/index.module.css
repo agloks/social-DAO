@@ -11,3 +11,7 @@
     justify-content: center;
     align-items: center;
 }
+
+.margin_links {
+    margin: 0px 20px;
+}
